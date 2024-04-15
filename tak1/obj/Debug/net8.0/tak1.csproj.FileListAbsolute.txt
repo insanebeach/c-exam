@@ -1,0 +1,14 @@
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\bin\Debug\net8.0\tak1.exe
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\bin\Debug\net8.0\tak1.deps.json
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\bin\Debug\net8.0\tak1.runtimeconfig.json
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\bin\Debug\net8.0\tak1.dll
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\bin\Debug\net8.0\tak1.pdb
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\obj\Debug\net8.0\tak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\obj\Debug\net8.0\tak1.AssemblyInfoInputs.cache
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\obj\Debug\net8.0\tak1.AssemblyInfo.cs
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\obj\Debug\net8.0\tak1.csproj.CoreCompileInputs.cache
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\obj\Debug\net8.0\tak1.dll
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\obj\Debug\net8.0\refint\tak1.dll
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\obj\Debug\net8.0\tak1.pdb
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\obj\Debug\net8.0\tak1.genruntimeconfig.cache
+C:\Users\Павел\OneDrive\Рабочий стол\С#\c#exam\tak1\obj\Debug\net8.0\ref\tak1.dll
